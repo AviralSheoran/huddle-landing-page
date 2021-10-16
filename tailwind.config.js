@@ -293,6 +293,8 @@ module.exports = {
         '"Courier New"',
         "monospace",
       ],
+      open_sans: ["Open Sans"],
+      poppins: ["Poppins"]
     },
     fontSize: {
       xs: ["0.75rem", { lineHeight: "1rem" }],
